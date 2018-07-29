@@ -15,3 +15,4 @@ Please reccommend the bot, donate, or upvote so we can get more features!
 
 Support Server - https://discord.gg/dcrSR75- Add everything here!
 
+
