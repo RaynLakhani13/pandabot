@@ -10,6 +10,18 @@ A cool bot to make your server
 
 -and fun!
 
+With commands like:
+
+-Magic 8 Ball
+
+-Trivia
+
+_Simpsons
+
+-Moderation
+
+-Fun
+
 Please reccommend the bot, donate, or upvote so we can get more features!
 
 
